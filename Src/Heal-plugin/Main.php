@@ -13,6 +13,10 @@ class main extends PluginBase{
 Public function onEnable(){
 
   $this->getserver()->getLogger()->info("Heal plugin is enable");
+ 
+Public function onDisable(){
+
+   $this->getserver()->getLogger()->info("Heal plugin is disable
    }
 
          public function onCommand(CommandSender $sender, Command $cmd, $label, array $args){
@@ -22,7 +26,7 @@ Public function onEnable(){
                       $sender->setHealth(20);
  break;
            case 'message':
- $this->getServer()->broadcast($args[you are healing])
+ $this->getServer()->broadcastMassage($args[you are healing])
      break;
             case 'cre1':
      $player = $sender->getPlayer();
