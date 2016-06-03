@@ -12,8 +12,7 @@ Api: [2.0.0]
   description: setGamemode 1
  sur0:
   description: setGamemode 0
- 
- 
-   
+ Adv3:
+  description: setGamemode 3  
   
   
