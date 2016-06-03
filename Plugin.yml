@@ -1,0 +1,5 @@
+Name: Heal-plugin
+Author: xd_plugins_xd
+Main:
+version: 1.0
+Api: [2.0.0]
