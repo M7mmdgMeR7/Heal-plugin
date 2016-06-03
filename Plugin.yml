@@ -1,5 +1,19 @@
 Name: Heal-plugin
 Author: xd_plugins_xd
-Main:
+Main:Src/Heal-plugin
 version: 1.0
 Api: [2.0.0]
+ commands:
+ heal:
+  description: heal yourself
+ massage:
+  description: send massage args
+ cru1:
+  description: setGamemode 1
+ sur0:
+  description: setGamemode 0
+ 
+ 
+   
+  
+  
