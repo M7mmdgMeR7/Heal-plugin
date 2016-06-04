@@ -16,8 +16,8 @@ Public function onEnable(){
  
 Public function onDisable(){
 
-   $this->getserver()->getLogger()->info("Heal plugin is disable
-   }
+   $this->getserver()->getLogger()->info("Heal plugin is disable");
+   
 
          public function onCommand(CommandSender $sender, Command $cmd, $label, array $args){
     switch($cmd->getName()){
