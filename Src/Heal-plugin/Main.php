@@ -26,7 +26,7 @@ Public function onDisable(){
                       $sender->setHealth(20);
  break;
            case 'message':
- $this->getServer()->broadcastMassage($args[you are healing])
+ $this->getServer()->broadcastMassage($args[->])
      break;
             case 'cre1':
      $player = $sender->getPlayer();
