@@ -8,7 +8,7 @@ Api: [2.0.0]
   description: heal yourself
  massage:
   description: send massage args
- cru1:
+ cre1:
   description: setGamemode 1
  sur0:
   description: setGamemode 0
