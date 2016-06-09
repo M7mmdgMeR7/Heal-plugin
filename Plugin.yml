@@ -1,6 +1,6 @@
 Name: Heal-plugin
 Author: xd_plugins_xd
-Main:Src/Heal-plugin
+Main:Src/Heal_plugin
 version: 1.0
 Api: [2.0.0]
  commands:
