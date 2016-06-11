@@ -1,6 +1,6 @@
 <?php
 
-Namespace; Heal_plugin
+Namespace Heal_plugin;
 
 use Pocketmine\Plugin\PluginBase;
 use Pocketmine\command\Command;
